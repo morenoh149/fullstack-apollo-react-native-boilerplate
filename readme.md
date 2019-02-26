@@ -1,6 +1,6 @@
 # fullstack-apollo-react-native-boilerplate
 
-A React Native app with Apollo Client.
+A React Native app with Apollo Client. This is a minimal react native app. It uses expo and is unejected. It uses react navigation and has the minimal code needed to demonstrate log in, sign up and log out.
 
 **Family of universal fullstack repositories:**
 
