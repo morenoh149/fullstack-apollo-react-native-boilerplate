@@ -40,11 +40,9 @@ export default class SignupScreen extends React.Component {
 
           return (
             <View style={{flex: 1}}>
-              <View style={{flex: 1}}></View>
               <Text style={{textAlign: 'center', fontSize: 24}}>
                 Sign Up
               </Text>
-              <View style={{flex: 1}}></View>
               <TextInput
                 style={styles.input}
                 placeholder='Username'
